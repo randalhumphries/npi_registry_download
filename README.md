@@ -8,6 +8,7 @@ A Ruby program to search the NPI Registry and download the results in CSV format
 ### Prerequisites
 
 Ruby 2.2.3
+RSpec 3.5.4
 
 ## Running the Program
 
