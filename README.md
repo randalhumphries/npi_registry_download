@@ -1,5 +1,5 @@
 # npi_registry_download
-A Ruby program to search the NPI Registry and download the results in CSV format. Currently built to search 
+A Ruby program to search the NPI Registry and download the results in CSV format. Currently built to search by zip code only.
 
 ## Getting Started
 
